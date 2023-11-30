@@ -96,7 +96,7 @@
             "constraints": {
                 "required": true,
                 "enum": [
-                    "Téléviseur"
+                    "Lave-linge"
                 ]
             }
         },
