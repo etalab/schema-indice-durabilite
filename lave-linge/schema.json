@@ -1,8 +1,8 @@
 {
     "$schema": "https://specs.frictionlessdata.io/schemas/table-schema.json",
     "name": "indice-durabilite-lave-linge",
-    "title": "Téléviseur",
-    "description": "Schéma de données pour l'indice de durabilité - téléviseur",
+    "title": "Lave-linge",
+    "description": "Schéma de données pour l'indice de durabilité - lave-linge",
     "keywords": [
         "durabilite",
         "lave-linge"
@@ -438,12 +438,7 @@
                     "Assemblage verrouillage porte",
                     "Pompes",
                     "Générateurs de chaleurs, éléments chauffants",
-                    "Carte électronique de puissance",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle"
+                    "Carte électronique de puissance"
                 ]
             }
         },
@@ -455,12 +450,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<8",
-                    "<10",
-                    "<12",
                     "<13",
                     "<19",
-                    ">12",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -478,12 +469,7 @@
                     "Assemblage verrouillage porte",
                     "Pompes",
                     "Générateurs de chaleurs, éléments chauffants",
-                    "Carte électronique de puissance",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle"
+                    "Carte électronique de puissance"
                 ]
             }
         },
@@ -495,12 +481,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<8",
-                    "<10",
-                    "<12",
                     "<13",
                     "<19",
-                    ">12",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -518,12 +500,7 @@
                     "Assemblage verrouillage porte",
                     "Pompes",
                     "Générateurs de chaleurs, éléments chauffants",
-                    "Carte électronique de puissance",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle"
+                    "Carte électronique de puissance"
                 ]
             }
         },
@@ -535,12 +512,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<8",
-                    "<10",
-                    "<12",
                     "<13",
                     "<19",
-                    ">12",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -558,12 +531,7 @@
                     "Assemblage verrouillage porte",
                     "Pompes",
                     "Générateurs de chaleurs, éléments chauffants",
-                    "Carte électronique de puissance",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle"
+                    "Carte électronique de puissance"
                 ]
             }
         },
@@ -575,12 +543,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<8",
-                    "<10",
-                    "<12",
                     "<13",
                     "<19",
-                    ">12",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -598,12 +562,7 @@
                     "Assemblage verrouillage porte",
                     "Pompes",
                     "Générateurs de chaleurs, éléments chauffants",
-                    "Carte électronique de puissance",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle"
+                    "Carte électronique de puissance"
                 ]
             }
         },
@@ -615,12 +574,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<8",
-                    "<10",
-                    "<12",
                     "<13",
                     "<19",
-                    ">12",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -648,19 +603,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -686,10 +629,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -720,19 +659,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -758,10 +685,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -792,19 +715,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -830,10 +741,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -864,19 +771,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -902,10 +797,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -936,19 +827,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -974,10 +853,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1008,19 +883,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1046,10 +909,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1080,19 +939,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1118,10 +965,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1152,19 +995,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1190,10 +1021,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1209,7 +1036,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1224,19 +1050,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1261,10 +1075,6 @@
             "type": "string",
             "constraints": {
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1280,7 +1090,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1295,19 +1104,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1333,10 +1130,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1352,7 +1145,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1367,19 +1159,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1405,10 +1185,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1424,7 +1200,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1439,19 +1214,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1477,10 +1240,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1496,7 +1255,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1511,19 +1269,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1549,10 +1295,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1568,7 +1310,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1583,19 +1324,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1621,10 +1350,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1640,7 +1365,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1655,19 +1379,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1693,10 +1405,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1712,7 +1420,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1727,19 +1434,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1765,10 +1460,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1784,7 +1475,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1799,19 +1489,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1837,10 +1515,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1856,7 +1530,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1871,19 +1544,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1909,10 +1570,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -1928,7 +1585,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -1943,19 +1599,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -1981,10 +1625,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2000,7 +1640,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -2015,19 +1654,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2053,10 +1680,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2072,7 +1695,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -2087,19 +1709,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2125,10 +1735,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2144,7 +1750,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -2159,19 +1764,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2197,10 +1790,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2216,7 +1805,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -2231,19 +1819,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2269,10 +1845,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2288,7 +1860,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -2303,19 +1874,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2341,10 +1900,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2360,7 +1915,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -2375,19 +1929,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2413,10 +1955,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2446,19 +1984,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2484,10 +2010,6 @@
             "constraints": {
                 "required": false,
                   "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2517,19 +2039,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2555,10 +2065,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2588,19 +2094,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2626,10 +2120,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2659,19 +2149,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2697,10 +2175,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2730,19 +2204,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2768,10 +2230,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2801,19 +2259,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2839,10 +2285,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2872,19 +2314,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2910,10 +2340,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -2943,19 +2369,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -2981,10 +2395,6 @@
             "constraints": {
                 "required": false,
                     "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3014,19 +2424,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3052,10 +2450,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3085,19 +2479,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3123,10 +2505,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3156,19 +2534,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3194,10 +2560,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3227,19 +2589,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3265,10 +2615,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3298,19 +2644,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3336,10 +2670,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3369,19 +2699,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3407,10 +2725,6 @@
             "constraints": {
                 "required": false,
                   "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3440,19 +2754,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3478,10 +2780,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3511,19 +2809,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3549,10 +2835,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3582,19 +2864,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3620,10 +2890,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3653,19 +2919,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3691,10 +2945,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3724,19 +2974,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3762,10 +3000,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3795,19 +3029,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3833,10 +3055,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3866,19 +3084,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3904,10 +3110,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -3937,19 +3139,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -3975,10 +3165,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4008,19 +3194,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4046,10 +3220,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4079,19 +3249,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4117,10 +3275,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4150,19 +3304,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4188,10 +3330,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4221,19 +3359,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4259,10 +3385,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4292,19 +3414,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4330,10 +3440,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4363,19 +3469,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4401,10 +3495,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4434,19 +3524,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4472,10 +3550,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4505,19 +3579,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4543,10 +3605,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4576,19 +3634,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4614,10 +3660,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4647,19 +3689,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4685,10 +3715,6 @@
             "constraints": {
                 "required": false,
                   "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4718,19 +3744,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4756,10 +3770,6 @@
             "constraints": {
                 "required": false,
                  "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4789,19 +3799,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4827,10 +3825,6 @@
             "constraints": {
                 "required": false,
                    "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
@@ -4860,19 +3854,7 @@
                     "Manocontacts",
                     "Thermostats et capteurs",
                     "Portes, charnières et joints de porte (portillon et aube de tambour)",
-                    "Logiciels et micrologiciels, y compris de reinitialisation",
-                    "Barre LED",
-                    "Sources d'alimentation externes",
-                    "Sources d'alimentation internes",
-                    "Carte principale (main board)",
-                    "Dalle",
-                    "Cache arrière",
-                    "Module Wi-Fi",
-                    "Module Bluetooth",
-                    "Récepteur Infrarouge (IR)",
-                    "Haut-parleur",
-                    "Connecteurs pour connecter les équipements externes (câble, antenne, USB, DVD et Blue-Ray)",
-                    "Télécommande"
+                    "Logiciels et micrologiciels, y compris de reinitialisation"
                 ]
             }
         },
@@ -4898,10 +3880,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-                    "<7",
-                    "7",
-                    "9",
-                    ">11",
                     "<11",
                     "13",
                     "15",
