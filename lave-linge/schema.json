@@ -443,8 +443,8 @@
             }
         },
        {
-            "name": "etape_demontage_pièce_1",
-            "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 1 de la liste 2",
+            "name": "etape_demontage_pièce_1_liste_2",
+            "description": "nombre d'étapes de démontage nécessaires pour avoir la pièce unitairement la pièce 1 de la liste 2",
             "type": "string",
             "constraints": {
                 "required": false,
@@ -474,8 +474,8 @@
             }
         },
        {
-            "name": "etape_demontage_pièce_2",
-            "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 2 de la liste 2",
+            "name": "etape_demontage_pièce_2_liste_2",
+            "description": "nombre d'étapes de démontage nécessaires pour avoir la pièce unitairement la pièce 2 de la liste 2",
             "type": "string",
             "constraints": {
                 "required": false,
@@ -505,8 +505,8 @@
             }
         },
        {
-            "name": "etape_demontage_pièce_3",
-            "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 3 de la liste 2",
+            "name": "etape_demontage_pièce_3_liste_2",
+            "description": "nombre d'étapes de démontage nécessaires pour avoir la pièce unitairement la pièce 3 de la liste 2",
             "type": "string",
             "constraints": {
                 "required": false,
@@ -521,7 +521,7 @@
             }
         },
         {
-            "name": "nom_piece_2_liste_4",
+            "name": "nom_piece_4_liste_2",
             "description": "Le nom de la pièce détachée 4 de la liste 2",
             "type": "string",
             "constraints": {
@@ -536,8 +536,8 @@
             }
         },
        {
-            "name": "etape_demontage_pièce_4",
-            "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 4 de la liste 2",
+            "name": "etape_demontage_pièce_4_liste_2",
+            "description": "nombre d'étapes de démontage nécessaires pour avoir la pièce unitairement la pièce 4 de la liste 2",
             "type": "string",
             "constraints": {
                 "required": false,
@@ -567,8 +567,8 @@
             }
         },
        {
-            "name": "etape_demontage_pièce_5",
-            "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 5 de la liste 2",
+            "name": "etape_demontage_pièce_5_liste_2",
+            "description": "nombre d'étapes de démontage nécessaires pour avoir la pièce unitairement la pièce 5 de la liste 2",
             "type": "string",
             "constraints": {
                 "required": false,
