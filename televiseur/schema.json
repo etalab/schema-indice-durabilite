@@ -1,11 +1,11 @@
 {
     "$schema": "https://specs.frictionlessdata.io/schemas/table-schema.json",
-    "name": "indice-durabilite-téléviseur",
-    "title": "Téléviseur",
-    "description": "Schéma de données pour l'indice de durabilité - téléviseur",
+    "name": "indice-durabilite-televiseur",
+    "title": "Televiseur",
+    "description": "Schéma de données pour l'indice de durabilité - televiseur",
     "keywords": [
         "durabilite",
-        "téléviseur"
+        "televiseur"
     ],
     "countryCode": "FR",
     "homepage": "https://github.com/etalab/schema-indice-durabilite",
@@ -348,7 +348,7 @@
         },
         {
             "name": "note_B_c1.2",
-            "description": "La note du critère 1.2 ressistance à l'usure fiabilité : note sur 10 comportant une décimale",
+            "description": "La note du critère 1.2 Résistance à l'usure fiabilité : note sur 10 comportant une décimale",
             "type": "number",
             "constraints": {
                 "required": true,
@@ -410,8 +410,8 @@
             }
         },
         {
-            "name": "lien_documentation pour les professionnels",
-            "description": "Le lien vers la documentation technique disponible (ou modalités d'accès)",
+            "name": "lien_documentation_professionnels",
+            "description": "Le lien vers la documentation technique disponible (ou modalités d'accès) a destination des professionnels",
             "type": "string",
             "constraints": {
                 "required": false,
@@ -419,8 +419,8 @@
             }
         },
               {
-            "name": "lien_documentation pour les particuliers",
-            "description": "Le lien vers la documentation technique disponible (ou modalités d'accès)",
+            "name": "lien_documentation_particuliers",
+            "description": "Le lien vers la documentation technique disponible (ou modalités d'accès) a destination des consommateurs",
             "type": "string",
             "constraints": {
                 "required": false,
@@ -443,7 +443,7 @@
             }
         },
        {
-            "name": "etape_démontage_pièce_1",
+            "name": "etape_demontage_pièce_1",
             "description": "nombre d'étapas de démontage necessaire pour avoir la pièce unitairement la pièce 1 de la liste 2",
             "type": "string",
             "constraints": {
@@ -474,7 +474,7 @@
             }
         },
        {
-            "name": "etape_démontage_pièce_2",
+            "name": "etape_demontage_pièce_2",
             "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 2 de la liste 2",
             "type": "string",
             "constraints": {
@@ -505,7 +505,7 @@
             }
         },
        {
-            "name": "etape_démontage_pièce_3",
+            "name": "etape_demontage_pièce_3",
             "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 3 de la liste 2",
             "type": "string",
             "constraints": {
@@ -536,7 +536,7 @@
             }
         },
        {
-            "name": "etape_démontage_pièce_4",
+            "name": "etape_demontage_pièce_4",
             "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 4 de la liste 2",
             "type": "string",
             "constraints": {
@@ -567,7 +567,7 @@
             }
         },
        {
-            "name": "etape_démontage_pièce_5",
+            "name": "etape_demontage_pièce_5",
             "description": "nombre d'étapes de démontage necessaire pour avoir la pièce unitairement la pièce 5 de la liste 2",
             "type": "string",
             "constraints": {
