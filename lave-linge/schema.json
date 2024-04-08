@@ -644,7 +644,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-       
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -700,7 +699,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -756,7 +754,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -812,7 +809,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -868,7 +864,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -924,7 +919,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
@@ -980,7 +974,6 @@
             "constraints": {
                 "required": false,
                 "enum": [
-
                     "Manchette ou soufflet",
                     "Assemblage verrouillage porte",
                     "Pompes",
