@@ -450,8 +450,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<13",
-                    "<19",
+                    "13",
+                    "19",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -481,8 +481,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<13",
-                    "<19",
+                    "13",
+                    "19",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -512,8 +512,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<13",
-                    "<19",
+                    "13",
+                    "19",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -543,8 +543,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<13",
-                    "<19",
+                    "13",
+                    "19",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
@@ -574,8 +574,8 @@
                 "required": false,
                 "enum": [
                     "<7",
-                    "<13",
-                    "<19",
+                    "13",
+                    "19",
                     ">19",
                     "Non démontable",
                     "Pièce absente"
