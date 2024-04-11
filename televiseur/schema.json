@@ -3077,7 +3077,6 @@
                 ]
             }
         },
-        }
     ],
     "primaryKey": "id_unique"
 }
