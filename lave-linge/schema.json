@@ -9,7 +9,7 @@
     ],
     "countryCode": "FR",
     "homepage": "https://github.com/etalab/schema-indice-durabilite",
-    "path": "https://github.com/etalab/schema-indice-durabilite/main/datapackage.json",
+    "path": "https://github.com/etalab/schema-indice-durabilite/v0.1.0/datapackage.json",
     "image": "",
     "licenses": [
         {
@@ -22,14 +22,14 @@
         {
             "title": "Fichier valide (CSV)",
             "name": "exemple-valide-csv",
-            "path": "https://raw.githubusercontent.com/etalab/schema-indice-durabilite/main/lave-linge/exemple-valide.csv"
+            "path": "https://raw.githubusercontent.com/etalab/schema-indice-durabilite/v0.1.0/lave-linge/exemple-valide.csv"
         }
     ],
     "sources": [
     ],
     "created": "2023-11-30",
-    "lastModified": "2023-11-30",
-    "version": "0.1.0",
+    "lastModified": "2024-04-12",
+    "version": "v0.1.0",
     "contributors": [
         {
             "title": "Flavien Barraud",
