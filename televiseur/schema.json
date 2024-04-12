@@ -3071,7 +3071,7 @@
                     "Non disponible"
                 ]
             }
-        },
+        }
     ],
     "primaryKey": "id_unique"
 }
