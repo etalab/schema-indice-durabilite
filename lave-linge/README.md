@@ -1,7 +1,7 @@
 # Répertoire national de l’indice de durabilité 
 
 L’affichage obligatoire d’un indice de durabilité est institué par l’article 16 de la loi n° 2020-105 du 10 février 2020 de lutte contre le gaspillage et pour l’économie circulaire, pour les produits électriques et électroniques. En affichant une note sur 10, cet indice informe les consommateurs sur le caractère plus ou moins durable des produits concernés en prenant en compte la réparabilité et la fiabilité des produits. Il s’applique depuis le 5 avril 2025 sur les lave-linges.
-Cette information sensibilise les consommateurs sur la possibilité dacquerie un produit durable et d'en allonger la durée de vie et d’utilisation de leurs appareils, notamment en orientant leurs comportements d’achat vers des produits plus fiables, plus facilement entretenable et plus facilement réparables et en les incitant à recourir davantage à la réparation en cas de panne.
+Cette information sensibilise les consommateurs sur la possibilité d'acquérir un produit durable et d'en allonger la durée de vie et d’utilisation de leurs appareils, notamment en orientant leurs comportements d’achat vers des produits plus fiables, plus facilement entretenable et plus facilement réparables et en les incitant à recourir davantage à la réparation en cas de panne.
 Il constitue un outil de lutte contre l’obsolescence – programmée ou non - pour éviter la mise au rebut trop précoce des produits et préserver les ressources naturelles nécessaires à leur production.
 
 
