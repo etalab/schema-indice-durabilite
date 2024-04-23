@@ -24,6 +24,7 @@ Le renseignement du répertoire national relatif à l’indice de réparabilité
 
 ## Utilisation de notre outil d'aide à la saisie
 
+
 Pour faciliter le remplissage des données, Etalab met à disposition un générateur CSV conforme au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format. Pour l'utiliser, rendez-vous sur [publier.etalab.studio](https://schema.data.gouv.fr/etalab/schema-indice-durabilite/), vous pourrez alors publier votre fichier à partir : 
 - d'un fichier csv déjà existant. (vous pouvez partir de [ce fichier exemple lave-linge](https://github.com/etalab/schema-indice-durabilite/blob/main/lave-linge/exemple-valide.csv)).
 - d'un formulaire
