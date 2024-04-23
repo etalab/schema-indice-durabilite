@@ -33,7 +33,6 @@ Pour faciliter le remplissage des données, Etalab met à disposition un génér
 Une fois vos données chargées ou remplies, un formulaire vous proposera de les publier sur data.gouv.fr.
 
 ## Voir aussi
-- [Exemple valide](https://github.com/etalab/schema-indice-durabiltite/blob/master/exemple-valide.csv)
 - Pour poser une question, commenter, faire un retour d’usage ou contribuer à l’amélioration du modèle de données, vous pouvez :
     - adresser un message à sde2.sevs.cgdd@developpement-durable.gouv.fr
     - [ouvrir un ticket](https://github.com/etalab/schema-indice-durabilite/issues) sur le dépôt GitHub du schéma
