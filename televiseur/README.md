@@ -4,7 +4,6 @@ L’affichage obligatoire d’un indice de durabilité est institué par l’art
 Cette information sensibilise les consommateurs sur la possibilité d'acquérir un produit durable et d'en allonger la durée de vie et d’utilisation de leurs appareils, notamment en orientant leurs comportements d’achat vers des produits plus fiables, plus facilement entretenable et plus facilement réparables et en les incitant à recourir davantage à la réparation en cas de panne.
 Il constitue un outil de lutte contre l’obsolescence – programmée ou non - pour éviter la mise au rebut trop précoce des produits et préserver les ressources naturelles nécessaires à leur production.
 
-
 ## Contexte
 Dans le but de constituer un répertoire national de données relatif à l’indice de durabilité, ouvert et accessible à tous, les fabricants ou metteurs sur le marché des produits concernés ont l'obligation de publier sur la plateforme data.gouv.fr les données ayant permis le calcul de l’indice de durabilité. Cette ouverture de données doit être conforme aux schémas de données en vigueur.
 Le renseignement du répertoire national relatif à l’indice de réparabilité est dans un premier temps volontaire. Cette démarche deviendra obligatoire dans le cadre de l’indice de durabilité.
