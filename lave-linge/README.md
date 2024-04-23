@@ -11,22 +11,19 @@ Le renseignement du répertoire national relatif à l’indice de réparabilité
 
 ## Documents de cadrage juridique
 - [Loi n°2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041553759),
-- [Décret n° 2024-316 du 5 avril 2024 relatif à l'indice de durabilité des équipements électriques et électroniques ](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049375942),
+- [Décret n° 2024-316 du 5 avril 2024 relatif à l'indice de durabilité des équipements électriques et électroniques](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049375942),
 - [Arrêté du 5 avril 2024 relatif aux modalités d'affichage, à la signalétique et aux paramètres généraux de calcul de l'indice de durabilité des équipements électriques et électroniques](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049376179),
-- [Arrêté du 5 avril 2024 relatif aux critères, aux sous critères et au système de notation pour le calcul et l'affichage de l'indice de durabilité des lave-linge ménagers ](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049376249).
+- [Arrêté du 5 avril 2024 relatif aux critères, aux sous critères et au système de notation pour le calcul et l'affichage de l'indice de durabilité des lave-linge ménagers](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049376249).
 
 
 ## Création d'un fichier de données conforme
-
 * Les données collectées doivent respecter un formalisme particulier (schéma de données) décrit sur la section documentation de cette page.
 * Les données sont à remplir au format CSV, encodage UTF-8.
 * Plusieurs solutions existent pour générer ce fichier CSV.
 
 ## Utilisation de notre outil d'aide à la saisie
-
-
-Pour faciliter le remplissage des données, Etalab met à disposition un générateur CSV conforme au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format. Pour l'utiliser, rendez-vous sur [publier.etalab.studio](https://schema.data.gouv.fr/etalab/schema-indice-durabilite/), vous pourrez alors publier votre fichier à partir : 
-- d'un fichier csv déjà existant. (vous pouvez partir de [ce fichier exemple lave-linge](https://github.com/etalab/schema-indice-durabilite/blob/main/lave-linge/exemple-valide.csv)).
+Pour faciliter le remplissage des données, data.gouv.fr met à disposition un outil d'aide à la création de fichiers CSV conformes au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format. Pour l'utiliser, rendez-vous sur [publier.etalab.studio](https://publier.etalab.studio/fr/select?schema=etalab%2Findice-durabilite-lave-linge), vous pourrez alors publier votre fichier à partir : 
+- d'un fichier csv déjà existant (vous pouvez partir de [ce fichier exemple lave-linge](https://github.com/etalab/schema-indice-durabilite/blob/main/lave-linge/exemple-valide.csv)).
 - d'un formulaire
 - d'un tableur (encore en expérimentation)
 
